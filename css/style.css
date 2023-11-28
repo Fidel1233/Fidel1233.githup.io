@@ -633,16 +633,16 @@ main {
         width: 288px;
     }
     .flechasuno{
-        left: 0;
+        left: -5px;
     }
     .flechasdos{
-        left: 70%;
+        left: 78%;
     }
     .ladosuno{
-        left: 10%;        
+        left: 2%;        
     }
     .ladosdos{
-        left: 10%;  
+        left: 19%;  
     } 
     .centros{
         top: 300px;
@@ -704,5 +704,10 @@ main {
     #check:checked ~ ul{
         left:5.4%;
     }*/
-
+     #cuerpoone{
+	     margin: 5px;
+     }
+      formulario{
+	margin-left: -20px;
+     }
 }
